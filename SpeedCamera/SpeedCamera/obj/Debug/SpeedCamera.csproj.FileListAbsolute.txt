@@ -1,0 +1,7 @@
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\bin\Debug\SpeedCamera.exe.config
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\bin\Debug\SpeedCamera.exe
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\bin\Debug\SpeedCamera.pdb
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\obj\Debug\SpeedCamera.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\obj\Debug\SpeedCamera.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\obj\Debug\SpeedCamera.exe
+C:\Users\Jesse Rushin\source\repos\SpeedCamera\SpeedCamera\obj\Debug\SpeedCamera.pdb
