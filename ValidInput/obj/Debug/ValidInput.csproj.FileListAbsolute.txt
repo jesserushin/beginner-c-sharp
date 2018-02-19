@@ -1,0 +1,7 @@
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\bin\Debug\ValidInput.exe.config
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\bin\Debug\ValidInput.exe
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\bin\Debug\ValidInput.pdb
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\obj\Debug\ValidInput.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\obj\Debug\ValidInput.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\obj\Debug\ValidInput.exe
+C:\Users\Jesse Rushin\source\repos\ValidInput\ValidInput\obj\Debug\ValidInput.pdb
