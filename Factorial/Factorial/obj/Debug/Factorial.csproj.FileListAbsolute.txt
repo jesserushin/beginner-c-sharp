@@ -1,0 +1,6 @@
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Jesse Rushin\source\repos\Factorial\Factorial\obj\Debug\Factorial.pdb
