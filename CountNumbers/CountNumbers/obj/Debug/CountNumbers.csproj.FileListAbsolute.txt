@@ -1,0 +1,7 @@
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\obj\Debug\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\Jesse Rushin\source\repos\CountNumbers\CountNumbers\obj\Debug\CountNumbers.pdb
