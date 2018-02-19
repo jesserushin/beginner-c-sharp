@@ -1,0 +1,7 @@
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\bin\Debug\ImageDimensions.exe.config
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\bin\Debug\ImageDimensions.exe
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\bin\Debug\ImageDimensions.pdb
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\obj\Debug\ImageDimensions.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\obj\Debug\ImageDimensions.exe
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\obj\Debug\ImageDimensions.pdb
+C:\Users\Jesse Rushin\source\repos\ImageDimensions\ImageDimensions\obj\Debug\ImageDimensions.csprojResolveAssemblyReference.cache
