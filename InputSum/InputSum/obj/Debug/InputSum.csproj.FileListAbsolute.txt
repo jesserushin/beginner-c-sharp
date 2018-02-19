@@ -1,0 +1,7 @@
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\bin\Debug\InputSum.exe.config
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\bin\Debug\InputSum.exe
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\bin\Debug\InputSum.pdb
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\obj\Debug\InputSum.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\obj\Debug\InputSum.exe
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\obj\Debug\InputSum.pdb
+C:\Users\Jesse Rushin\source\repos\InputSum\InputSum\obj\Debug\InputSum.csprojResolveAssemblyReference.cache
