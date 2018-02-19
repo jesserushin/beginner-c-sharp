@@ -1,0 +1,6 @@
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\bin\Debug\MaxNumbers.exe.config
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\bin\Debug\MaxNumbers.exe
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\bin\Debug\MaxNumbers.pdb
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\obj\Debug\MaxNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\obj\Debug\MaxNumbers.exe
+C:\Users\Jesse Rushin\source\repos\MaxNumbers\MaxNumbers\obj\Debug\MaxNumbers.pdb
