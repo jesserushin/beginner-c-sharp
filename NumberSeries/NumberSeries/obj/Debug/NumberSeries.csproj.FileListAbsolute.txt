@@ -1,0 +1,6 @@
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.exe.config
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.exe
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\bin\Debug\NumberSeries.pdb
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.exe
+C:\Users\Jesse Rushin\source\repos\NumberSeries\NumberSeries\obj\Debug\NumberSeries.pdb
